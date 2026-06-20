@@ -1,5 +1,5 @@
 # Weather-Condition-Analysis-Project
-Python-based Weather Condition Analysis project that analyzes temperature, humidity, visibility, wind speed, and weather patterns using Pandas, Matplotlib, and Seaborn to generate actionable insights.
+Python-based Weather Condition Analysis project that analyzes temperature, humidity, visibility, wind speed, and weather patterns using Pandas, Matplotlib, and Seaborn to generate actionable insights. The Weather Data set with per-hour information about the Weather Condition at a perticular location. This data is available as a csv file, and going to analyze this data set using Pandas dataframe.
 
 # Objective
 Analyze Weather Conditions using Python.
